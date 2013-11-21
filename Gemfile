@@ -37,7 +37,7 @@ gem 'cancan'
 
 # markdown
 gem 'marked-rails', '~> 0.2.9.0'
-gem 'redcarpet'
+gem 'redcarpet', '~> 3.0.0'
 
 # billing
 gem 'stripe'
